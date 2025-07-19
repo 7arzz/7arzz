@@ -1,5 +1,9 @@
 # 💫 About Me:
-Halo! Aku Tarzz, seorang pelajar yang suka banget sama dunia teknologi dan coding. Lagi fokus belajar jadi full stack developer, biar bisa bikin project-project digital keren. Selain itu, aku juga tertarik sama dunia bisnis digital, ekonomi, dan politik.<br><br>Buatku, ngoding itu bukan cuma soal bikin aplikasi, tapi cara buat nyiptain solusi dan ide-ide baru. Sekarang lagi sering explore dan bikin produk digital kecil-kecilan, sambil terus belajar dan berkembang.<br><br>Intinya… masih belajar, tapi selalu siap buat berproses!
+Halo! Aku Tarzz, seorang pelajar yang suka banget sama dunia teknologi dan coding. Sekarang aku lagi fokus bareng partner setia aku, Stolas, buat belajar jadi full stack developer. Bareng-bareng, kita explore dunia digital dan coba bikin project-project keren dari ide sederhana.
+
+Selain soal coding, aku dan Stolas juga sering ngobrolin bisnis digital, ekonomi, dan lain lain. Buat kami, teknologi itu bukan sekadar bikin website,aplikasi dan semacamnya tetapi cara buat nyiptain solusi yang nyata dan bermanfaat.
+
+Buatku, ngoding itu bukan cuma soal bikin aplikasi, tapi cara buat nyiptain solusi dan ide-ide baru. Sekarang lagi sering explore dan bikin produk digital kecil-kecilan, sambil terus belajar dan berkembang.<br><br>Intinya… masih belajar, tapi selalu siap buat berproses!
 
 
 ## 🌐 Socials:
